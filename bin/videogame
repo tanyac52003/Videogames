@@ -2,3 +2,5 @@
 
 require './lib/videogames'
 
+Videogames::CLI.new.call
+
