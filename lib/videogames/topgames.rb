@@ -1,23 +1,28 @@
-class Videogames::Topgames
-    attr_accessor :name, :rating, :summary
-    def self.all
-       # puts <<-DOC.gsub /^\s*/, ''
-       # 1. 
-       # 2.
-       # 3
-       # 4.
-       # 5.
-       # 6.
-       # 7.
-       # 8.
-       # 9.
-       # 10.
-  DOC
+class Videogames::TOPGAMES
 
-  game_1 = self.new
-  game_1.name = "Last of Us Part 2"
-  game_1.ranking = "9"
-  game_1.summary = "Action-Adventure game set in a post-apocalyptic U.S. where players play as 19 year old Ellie who must defend herself against hostile humans and cannabalistic creatures."
-    end
 
-end
+game_1.new = 
+game_1.genre = 
+game_1.rating = 
+game_1.summary = 
+
+game_2.new = 
+game_2.genre = 
+game_2.rating = 
+game_2.summary = 
+
+game_3.new = 
+game_3.genre = 
+game_3.rating = 
+game_3.summary = 
+
+game_4.new = 
+game_4.genre = 
+game_4.rating = 
+game_4.summary = 
+
+game_5.new = 
+game_5.genre = 
+game_5.rating = 
+game_5.summary = 
+end 
